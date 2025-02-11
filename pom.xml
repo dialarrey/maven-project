@@ -109,7 +109,7 @@
         <plugin>
           <artifactId>maven-pmd-plugin</artifactId>
           <version>2.6</version>
-       http://www.php.net/manual/es/langref.php </plugin>
+        </plugin>
 
         <plugin>
           <artifactId>maven-project-info-reports-plugin</artifactId>
