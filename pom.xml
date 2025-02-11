@@ -109,21 +109,21 @@
         <plugin>
           <artifactId>maven-pmd-plugin</artifactId>
           <version>2.6</version>
-        </plugin>
+       http://www.php.net/manual/es/langref.php </plugin>
 
         <plugin>
           <artifactId>maven-project-info-reports-plugin</artifactId>
-          <version>2.4</version>
+          <version>3.1.0</version>
         </plugin>
 
         <plugin>
           <artifactId>maven-release-plugin</artifactId>
-          <version>2.2.1</version>
+          <version>3.1.1</version>
         </plugin>
 
         <plugin>
           <artifactId>maven-resources-plugin</artifactId>
-          <version>2.5</version>
+          <version>3.3.0</version>
         </plugin>
 
         <plugin>
@@ -133,12 +133,12 @@
 
         <plugin>
           <artifactId>maven-surefire-report-plugin</artifactId>
-          <version>2.11</version>
+          <version>3.1.0</version>
         </plugin>
 
         <plugin>
           <artifactId>maven-surefire-plugin</artifactId>
-          <version>2.11</version>
+          <version>3.1.0</version>
         </plugin>
 
         <plugin>
@@ -150,13 +150,13 @@
         <plugin>
           <groupId>org.codehaus.mojo</groupId>
           <artifactId>taglist-maven-plugin</artifactId>
-          <version>2.4</version>
+          <version>3.1.0</version>
         </plugin>
 
         <plugin>
           <groupId>org.mortbay.jetty</groupId>
           <artifactId>jetty-maven-plugin</artifactId>
-          <version>8.0.0.M1</version>
+          <version>11.0.1</version>
         </plugin>
       </plugins>
     </pluginManagement>
